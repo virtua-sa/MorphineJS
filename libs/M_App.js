@@ -395,14 +395,14 @@ module.exports = class MorphineServer {
 		console.warn("Date : " + moment().format("DD MMMM YYYY HH:mm:ss").green);
 		console.warn(
 			`
- _.._..,_,_
-(          )
- ]~,"-.-~~[
+  _.._..,_,_
+ (          )
+  ]~,"-.-~~[
 .=])' (;  ([
 | ]:: '    [
 '=]): .)  ([
- |:: '    |
-  ~~----~~
+  |:: '    |
+   ~~----~~
 `
 		);
 
